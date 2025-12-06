@@ -16,4 +16,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 189 | Rotate Array | Medium | Dec 3, 2025 |
 | 121 | Best Time to Buy and Sell Stock | Easy | Dec 4, 2025 |
 | 122 | Best Time to Buy and Sell Stock II | Easy | Dec 5, 2025 |
-| 55 | Jump Game | Medium | Greedy (goal post) | Dec 6, 2025 |
+| 55 | Jump Game | Medium | Dec 6, 2025 |
