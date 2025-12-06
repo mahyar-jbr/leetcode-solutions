@@ -2,17 +2,18 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 8/150
+## Progress: 9/150
 
 ### Array / String
 
 | # | Problem | Difficulty | Date |
 |---|---------|------------|------|
-| 88 | Merge Sorted Array | Easy | Dec 5, 2024 |
-| 27 | Remove Element | Easy | Dec 5, 2024 |
-| 26 | Remove Duplicates from Sorted Array | Easy | Dec 5, 2024 |
-| 80 | Remove Duplicates from Sorted Array II | Medium | Dec 5, 2024 |
-| 169 | Majority Element | Easy | Dec 5, 2024 |
-| 189 | Rotate Array | Medium | Dec 5, 2024 |
-| 121 | Best Time to Buy and Sell Stock | Easy | Dec 5, 2024 |
-| 122 | Best Time to Buy and Sell Stock II | Easy | Dec 5, 2024 |
+| 88 | Merge Sorted Array | Easy | Nov 28, 2025 |
+| 27 | Remove Element | Easy | Nov 29, 2025 |
+| 26 | Remove Duplicates from Sorted Array | Easy | Nov 30, 2025 |
+| 80 | Remove Duplicates from Sorted Array II | Medium | Dec 1, 2025 |
+| 169 | Majority Element | Easy | Dec 2, 2025 |
+| 189 | Rotate Array | Medium | Dec 3, 2025 |
+| 121 | Best Time to Buy and Sell Stock | Easy | Dec 4, 2025 |
+| 122 | Best Time to Buy and Sell Stock II | Easy | Dec 5, 2025 |
+| 55 | Jump Game | Medium | Greedy (goal post) | Dec 6, 2025 |
