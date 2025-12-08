@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 10/150
+## Progress: 11/150
 
 ### Array / String
 
@@ -18,3 +18,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 122 | Best Time to Buy and Sell Stock II | Easy | Dec 5, 2025 |
 | 55 | Jump Game | Medium | Dec 6, 2025 |
 | 45 | Jump Game II | Medium | Dec 7, 2025 |
+| 274 | H-Index | Medium | Dec 8, 2025 |
