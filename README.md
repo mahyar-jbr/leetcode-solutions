@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 11/150
+## Progress: 12/150
 
 ### Array / String
 
@@ -19,3 +19,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 55 | Jump Game | Medium | Dec 6, 2025 |
 | 45 | Jump Game II | Medium | Dec 7, 2025 |
 | 274 | H-Index | Medium | Dec 8, 2025 |
+| 380 | Insert Delete GetRandom O(1) | Medium | Dec 10, 2025 |
