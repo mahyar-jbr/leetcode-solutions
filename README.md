@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 13/150
+## Progress: 14/150
 
 ### Array / String
 
@@ -21,3 +21,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 274 | H-Index | Medium | Dec 8, 2025 |
 | 380 | Insert Delete GetRandom O(1) | Medium | Dec 10, 2025 |
 | 238 | Product of Array Except Self | Medium | Jan 1, 2026 |
+| 134 | Gas Station | Medium | Jan 2, 2026 |
