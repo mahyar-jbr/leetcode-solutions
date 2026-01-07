@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 15/150
+## Progress: 16/150
 
 ### Array / String
 
@@ -23,3 +23,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 238 | Product of Array Except Self | Medium | Jan 1, 2026 |
 | 134 | Gas Station | Medium | Jan 2, 2026 |
 | 135 | Candy | Hard | Jan 4, 2026 |
+| 42 | Trapping Rain Water | Hard | Jan 7, 2026 |
