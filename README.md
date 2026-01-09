@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 17/150
+## Progress: 18/150
 
 ### Array / String
 
@@ -25,3 +25,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 135 | Candy | Hard | Jan 4, 2026 |
 | 42 | Trapping Rain Water | Hard | Jan 7, 2026 |
 | 13 | Roman to Integer | Easy | Jan 8, 2026 |
+| 12 | Integer to Roman | Medium | Jan 9, 2026 |
