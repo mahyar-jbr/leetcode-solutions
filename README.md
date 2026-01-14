@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 23/150
+## Progress: 24/150
 
 ### Array / String
 
@@ -31,3 +31,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 151 | Reverse Words in a String | Medium | Jan 13, 2026 |
 | 6 | Zigzag Conversion | Medium | Jan 14, 2026 |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Jan 14, 2026 |
+| 68 | Text Justification | Hard | Jan 14, 2026 |
