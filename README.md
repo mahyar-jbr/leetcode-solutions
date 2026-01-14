@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 22/150
+## Progress: 23/150
 
 ### Array / String
 
@@ -30,3 +30,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 14 | Longest Common Prefix | Easy | Jan 12, 2026 |
 | 151 | Reverse Words in a String | Medium | Jan 13, 2026 |
 | 6 | Zigzag Conversion | Medium | Jan 14, 2026 |
+| 28 | Find the Index of the First Occurrence in a String | Easy | Jan 14, 2026 |
