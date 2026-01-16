@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 24/150
+## Progress: 25/150
 
 ### Array / String
 
@@ -32,3 +32,10 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 6 | Zigzag Conversion | Medium | Jan 14, 2026 |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Jan 14, 2026 |
 | 68 | Text Justification | Hard | Jan 14, 2026 |
+
+
+### Two Pointers
+
+| # | Problem | Difficulty | Date |
+|---|---------|------------|------|
+| 125 | Valid Palindrome | Easy | Jan 16, 2026 |
