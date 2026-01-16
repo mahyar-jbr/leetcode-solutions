@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 25/150
+## Progress: 26/150
 
 ### Array / String
 
@@ -39,3 +39,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | # | Problem | Difficulty | Date |
 |---|---------|------------|------|
 | 125 | Valid Palindrome | Easy | Jan 16, 2026 |
+| 392 | Is Subsequence | Easy | Jan 16, 2026 |
