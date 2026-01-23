@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 30/150
+## Progress: 31/150
 
 ### Array / String
 
@@ -50,3 +50,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | # | Problem | Difficulty | Date |
 |---|---------|------------|------|
 | 209 | Minimum Size Subarray Sum | Medium | Jan 21, 2026 |
+| 3 | Longest Substring Without Repeating Characters | Medium | Jan 23, 2026 |
