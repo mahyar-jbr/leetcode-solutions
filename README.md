@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 33/150
+## Progress: 34/150
 
 ### Array / String
 
@@ -53,3 +53,10 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 3 | Longest Substring Without Repeating Characters | Medium | Jan 23, 2026 |
 | 30 | Substring with Concatenation of All Words | Hard | Jan 25, 2026 |
 | 76 | Minimum Window Substring | Hard | Jan 26, 2026 |
+
+
+### Matrix
+
+| # | Problem | Difficulty | Date |
+|---|---------|------------|------|
+| 36 | Valid Sudoku | Medium | Jan 28, 2026 |
