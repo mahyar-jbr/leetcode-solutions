@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 34/150
+## Progress: 35/150
 
 ### Array / String
 
@@ -60,3 +60,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | # | Problem | Difficulty | Date |
 |---|---------|------------|------|
 | 36 | Valid Sudoku | Medium | Jan 28, 2026 |
+| 54 | Spiral Matrix | Medium | Feb 1, 2026 |
