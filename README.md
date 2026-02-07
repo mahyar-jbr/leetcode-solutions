@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 38/150
+## Progress: 39/150
 
 ### Array / String
 
@@ -64,3 +64,10 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 48 | Rotate Image | Medium | Feb 2, 2026 |
 | 73 | Set Matrix Zeroes | Medium | Feb 3, 2026 |
 | 289 | Game of Life | Medium | Feb 4, 2026 |
+
+
+### Hashmap
+
+| # | Problem | Difficulty | Date |
+|---|---------|------------|------|
+| 383 | Ransom Note | Easy | Feb 7, 2026 |
