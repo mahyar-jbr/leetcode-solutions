@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 40/150
+## Progress: 41/150
 
 ### Array / String
 
@@ -72,3 +72,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 |---|---------|------------|------|
 | 383 | Ransom Note | Easy | Feb 7, 2026 |
 | 205 | Isomorphic Strings | Easy | Feb 8, 2026 |
+| 290 | Word Pattern | Easy | Feb 9, 2026 |
