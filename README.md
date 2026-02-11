@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 42/150
+## Progress: 43/150
 
 ### Array / String
 
@@ -74,3 +74,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 205 | Isomorphic Strings | Easy | Feb 8, 2026 |
 | 290 | Word Pattern | Easy | Feb 9, 2026 |
 | 242 | Valid Anagram | Easy | Feb 10, 2026 |
+| 49 | Group Anagrams | Medium | Feb 11, 2026 |
