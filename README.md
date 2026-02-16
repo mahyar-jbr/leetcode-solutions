@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 46/150
+## Progress: 47/150
 
 ### Array / String
 
@@ -78,3 +78,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 1 | Two Sum | Easy | Feb 12, 2026 |
 | 202 | Happy Number | Easy | Feb 13, 2026 |
 | 219 | Contains Duplicate II | Easy | Feb 16, 2026 |
+| 128 | Longest Consecutive Sequence | Medium | Feb 16, 2026 |
