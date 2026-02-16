@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 45/150
+## Progress: 46/150
 
 ### Array / String
 
@@ -77,3 +77,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 49 | Group Anagrams | Medium | Feb 11, 2026 |
 | 1 | Two Sum | Easy | Feb 12, 2026 |
 | 202 | Happy Number | Easy | Feb 13, 2026 |
+| 219 | Contains Duplicate II | Easy | Feb 16, 2026 |
