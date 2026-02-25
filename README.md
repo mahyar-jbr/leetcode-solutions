@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 48/150
+## Progress: 49/150
 
 ### Array / String
 
@@ -86,3 +86,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | # | Problem | Difficulty | Date |
 |---|---------|------------|------|
 | 228 | Summary Ranges | Easy | Feb 17, 2026 |
+| 57 | Insert Interval | Medium | Feb 25, 2026 |
