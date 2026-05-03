@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 51/150
+## Progress: 52/150
 
 ### Array / String
 
@@ -89,3 +89,10 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 57 | Insert Interval | Medium | Feb 25, 2026 |
 | 56 | Merge Intervals | Medium | Feb 27, 2026 |
 | 452 | Minimum Number of Arrows to Burst Balloons | Medium | May 1, 2026 |
+
+
+### Stack
+
+| # | Problem | Difficulty | Date |
+|---|---------|------------|------|
+| 20 | Valid Parentheses | Easy | May 3, 2026 |
