@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 53/150
+## Progress: 54/150
 
 ### Array / String
 
@@ -97,3 +97,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 |---|---------|------------|------|
 | 20 | Valid Parentheses | Easy | May 3, 2026 |
 | 71 | Simplify Path | Medium | May 10, 2026 |
+| 155 | Min Stack | Medium | May 13, 2026 |
