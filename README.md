@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 58/150
+## Progress: 59/150
 
 ### Array / String
 
@@ -108,3 +108,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 |---|---------|------------|------|
 | 141 | Linked List Cycle | Easy | May 20, 2026 |
 | 2 | Add Two Numbers | Medium | June 1, 2026 |
+| 21 | Merge Two Sorted Lists | Easy | June 2, 2026 |
