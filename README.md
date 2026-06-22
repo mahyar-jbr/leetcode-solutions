@@ -3,6 +3,7 @@
 My solutions to LeetCode's Top 150 Interview Questions.
 
 ## Progress: 59/150
+## Extra: 1
 
 ### Array / String
 
@@ -100,6 +101,7 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 155 | Min Stack | Medium | May 13, 2026 |
 | 150 | Evaluate Reverse Polish Notation | Medium | May 15, 2026 |
 | 224 | Basic Calculator | Hard | May 19, 2026 |
+| 682 | Baseball Game | Easy | June 22, 2026 |
 
 
 ### Linked List
