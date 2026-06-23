@@ -3,7 +3,7 @@
 My solutions to LeetCode's Top 150 Interview Questions.
 
 ## Progress: 59/150
-## Extra: 2
+## Extra: 3
 
 ### Array / String
 
@@ -103,6 +103,7 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 224 | Basic Calculator | Hard | May 19, 2026 |
 | 682 | Baseball Game | Easy | June 22, 2026 |
 | 739 | Daily Temperatures | Medium | June 22, 2026 |
+| 496 | Next Greater Element I | Easy | June 22, 2026 |
 
 
 ### Linked List
