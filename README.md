@@ -3,7 +3,7 @@
 My solutions to LeetCode's Top 150 Interview Questions.
 
 ## Progress: 59/150
-## Extra: 5
+## Extra: 6
 
 ### Array / String
 
@@ -44,6 +44,7 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 167 | Two Sum II - Input Array Is Sorted | Medium | Jan 18, 2026 |
 | 15 | 3Sum | Medium | Jan 19, 2026 |
 | 11 | Container With Most Water | Medium | Jan 20, 2026 |
+| 344 | Reverse String | Easy | June 24, 2026 |
 
 
 ### Sliding Window
