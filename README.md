@@ -3,7 +3,7 @@
 My solutions to LeetCode's Top 150 Interview Questions.
 
 ## Progress: 60/150
-## Extra: 6
+## Extra: 7
 
 ### Array / String
 
@@ -117,3 +117,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 2 | Add Two Numbers | Medium | June 1, 2026 |
 | 21 | Merge Two Sorted Lists | Easy | June 2, 2026 |
 | 138 | Copy List with Random Pointer | Medium | August 7, 2026 |
+| 206 | Reverse Linked List | Easy | August 10, 2026 |
