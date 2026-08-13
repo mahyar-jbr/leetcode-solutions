@@ -17,7 +17,7 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        dummy = ListNode(0)
+        dummy = ListNode(0) # pyright: ignore[reportUndefinedVariable]
         dummy.next = head
         current = head
         prev = dummy
