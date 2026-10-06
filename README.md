@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 64/150
+## Progress: 65/150
 ## Extra: 7
 
 ### Array / String
@@ -122,3 +122,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 25 | Reverse Nodes in k-Group | Hard | August 11, 2026 |
 | 19 | Remove Nth Node From End of List | Medium | August 12, 2026 |
 | 82 | Remove Duplicates from Sorted List II | Medium | August 13, 2026 |
+| 61 | Rotate List | Medium | October 5, 2026 |
