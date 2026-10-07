@@ -18,8 +18,8 @@ class Solution(object):
         :type x: int
         :rtype: Optional[ListNode]
         """
-        dummy_small = ListNode(0)
-        dummy_big = ListNode(0)
+        dummy_small = ListNode(0) # type: ignore
+        dummy_big = ListNode(0) # type: ignore
         small = dummy_small
         big = dummy_big
         current = head
