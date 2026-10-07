@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 66/150
+## Progress: 67/150
 ## Extra: 7
 
 ### Array / String
@@ -124,3 +124,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 82 | Remove Duplicates from Sorted List II | Medium | August 13, 2026 |
 | 61 | Rotate List | Medium | October 5, 2026 |
 | 86 | Partition List | Medium | October 6, 2026 |
+| 146 | LRU Cache | Medium | October 7, 2026 |
