@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 67/150
+## Progress: 68/150
 ## Extra: 7
 
 ### Array / String
@@ -125,3 +125,10 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 61 | Rotate List | Medium | October 5, 2026 |
 | 86 | Partition List | Medium | October 6, 2026 |
 | 146 | LRU Cache | Medium | October 7, 2026 |
+
+
+### Binary Tree General
+
+| # | Problem | Difficulty | Date |
+|---|---------|------------|------|
+| 104 | Maximum Depth of Binary Tree | Easy | October 9, 2026 |
