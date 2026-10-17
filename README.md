@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 69/150
+## Progress: 70/150
 ## Extra: 7
 
 ### Array / String
@@ -133,3 +133,4 @@ My solutions to LeetCode's Top 150 Interview Questions.
 |---|---------|------------|------|
 | 104 | Maximum Depth of Binary Tree | Easy | October 9, 2026 |
 | 100 | Same Tree | Easy | October 14, 2026 |
+| 226 | Invert Binary Tree | Easy | October 15, 2026 |
