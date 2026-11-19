@@ -2,7 +2,7 @@
 
 My solutions to LeetCode's Top 150 Interview Questions.
 
-## Progress: 75/150
+## Progress: 76/150
 ## Extra: 7
 
 ### Array / String
@@ -138,4 +138,5 @@ My solutions to LeetCode's Top 150 Interview Questions.
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | October 20, 2026 |
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | October 20, 2026 |
 | 117 | Populating Next Right Pointers in Each Node II | Medium | October 21, 2026 |
+| 114 | Flatten Binary Tree to Linked List | Medium | November 18, 2026 |
 | 112 | Path Sum | Easy | November 18, 2026 |
